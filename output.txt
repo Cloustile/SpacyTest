@@ -1,0 +1,10 @@
+Named Entities:
+- Apple Inc. (ORG)
+- Steve Jobs (PERSON)
+- Cupertino (GPE)
+- California (GPE)
+- iPhone (ORG)
+- iPad (ORG)
+
+Relations (Subject-Verb-Object):
+- It -> develops -> products
