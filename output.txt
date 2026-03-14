@@ -1,10 +1,1992 @@
 Named Entities:
-- Apple Inc. (ORG)
-- Steve Jobs (PERSON)
-- Cupertino (GPE)
-- California (GPE)
-- iPhone (ORG)
-- iPad (ORG)
+- William Shakespeare (PERSON)
+- Barbara A. Mowat (PERSON)
+- Paul Werstine (PERSON)
+- Michael Poston (PERSON)
+- Rebecca Niles (PERSON)
+- Shakespeare Library (PERSON)
+- Mar 14, 2018 (DATE)
+- FDT (ORG)
+- HELEN (WORK_OF_ART)
+- Rossillion
+BERTRAM (ORG)
+- Rossillion, Bertram's (ORG)
+- Countess (ORG)
+- Bertram (PERSON)
+- France (GPE)
+- French (NORP)
+- the Duke of Florence (ORG)
+- FIRST (ORDINAL)
+- France (GPE)
+- France (GPE)
+- FIRST (ORDINAL)
+- Astringer (PRODUCT)
+- Florence
+DIANA (ORG)
+- Widow (PERSON)
+- MARIANA (PERSON)
+- Widow (PERSON)
+- Citizens of Florence, Servants
+
+
+ACT 1 (ORG)
+- 1 (CARDINAL)
+- Bertram Count (PERSON)
+- Countess (NORP)
+- Helen (GPE)
+- Lafew (PERSON)
+- COUNTESS (NORP)
+- second (ORDINAL)
+- Majesty (PERSON)
+- Majesty (PERSON)
+- Gerard de Narbon (PERSON)
+- Gerard de Narbon (PERSON)
+- Helena (ORG)
+- BERTRAM (GPE)
+- Madam (PERSON)
+- Bertram (PERSON)
+- Farewell (PERSON)
+- him.--Farewell (ORG)
+- Bertram (PERSON)
+- Countess (NORP)
+- Helen (LOC)
+- Farewell (PERSON)
+- Bertram (PERSON)
+- Lafew (PERSON)
+- Bertram (PERSON)
+- Bertram (PERSON)
+- one (CARDINAL)
+- every hour (TIME)
+- Enter Parolles (FAC)
+- PAROLLES (GPE)
+- Marry (PERSON)
+- first (ORDINAL)
+- ten (CARDINAL)
+- ten year (DATE)
+- two (CARDINAL)
+- Marry (PERSON)
+- French (NORP)
+- a thousand (CARDINAL)
+- dulcet (PERSON)
+- Cupid (ORG)
+- Tis pity--
+
+PAROLLES   (ORG)
+- Enter Page (ORG)
+- PAGE (ORG)
+- Monsieur Parolles (GPE)
+- PAROLLES (GPE)
+- PAROLLES (GPE)
+- Mars (LOC)
+- Mars (LOC)
+- PAROLLES (GPE)
+- Mars (LOC)
+- Mars (LOC)
+- PAROLLES (GPE)
+- PAROLLES (GPE)
+- thou (GPE)
+- Parolles (GPE)
+- 2 (CARDINAL)
+- Flourish (NORP)
+- France (GPE)
+- two (CARDINAL)
+- Florentines (ORG)
+- Senoys (PERSON)
+- Austria (GPE)
+- Florentine (GPE)
+- Majesty (PERSON)
+- Florence (ORG)
+- Tuscan (NORP)
+- Enter Bertram (GPE)
+- Lafew (PERSON)
+- Parolles (GPE)
+- the Count Rossillion (ORG)
+- Young Bertram (PERSON)
+- Youth (GPE)
+- thou (GPE)
+- Frank (PERSON)
+- Hath (PERSON)
+- Paris (GPE)
+- Majesty (PERSON)
+- First (ORDINAL)
+- Today (DATE)
+- Clock (ORG)
+- the true minute (TIME)
+- Exception (PERSON)
+- Lies (PERSON)
+- Expire (PRODUCT)
+- first (ORDINAL)
+- Some six months (DATE)
+- arm.--The (CARDINAL)
+- Majesty (PERSON)
+- 3 (CARDINAL)
+- Enter Countess (ORG)
+- Steward (PERSON)
+- STEWARD (ORG)
+- Madam (PERSON)
+- Ladyship (FAC)
+- Isbel (ORG)
+- thou (GPE)
+- Worship (ORG)
+- May (DATE)
+- COUNTESS (NORP)
+- Charbon (GPE)
+- Puritan (GPE)
+- Poysam (PERSON)
+- Papist (NORP)
+- STEWARD (ORG)
+- May (DATE)
+- Helen (PRODUCT)
+- COUNTESS (NORP)
+- Sirrah (GPE)
+- Troy (GPE)
+- Priam (PERSON)
+- nine (CARDINAL)
+- nine (CARDINAL)
+- one (CARDINAL)
+- ten (CARDINAL)
+- one (CARDINAL)
+- sirrah. (PERSON)
+- One (CARDINAL)
+- ten (CARDINAL)
+- One (CARDINAL)
+- ten (CARDINAL)
+- Puritan (GPE)
+- Helen (PERSON)
+- STEWARD (ORG)
+- Faith (PERSON)
+- STEWARD (ORG)
+- Madam (PERSON)
+- two (CARDINAL)
+- Love (WORK_OF_ART)
+- Dian (NORP)
+- first (ORDINAL)
+- Steward (PERSON)
+- Enter Helen (FAC)
+- Doth (ORG)
+- days (DATE)
+- Helen (PERSON)
+- COUNTESS (NORP)
+- Nay (ORG)
+- Iris (PERSON)
+- The Count Rossillion (ORG)
+- Helen (PERSON)
+- Love (WORK_OF_ART)
+- Indian (NORP)
+- Dian (NORP)
+- Love (WORK_OF_ART)
+- Paris (GPE)
+- Paris (GPE)
+- Else Paris (PERSON)
+- the King
+Had (ORG)
+- Helen (PERSON)
+- Shall (PERSON)
+- Grace (ORG)
+- COUNTESS (NORP)
+- Helen (GPE)
+- tomorrow (DATE)
+- 2 (CARDINAL)
+- 1 (CARDINAL)
+- Flourish (NORP)
+- the Florentine war (EVENT)
+- Bertram Count Rossillion (PERSON)
+- Parolles (GPE)
+- Grace (ORG)
+- Frenchmen (GPE)
+- Majesty (PERSON)
+- Italy (GPE)
+- French (NORP)
+- Bertram (PERSON)
+- Parolles (GPE)
+- Bertram (PERSON)
+- The next year (DATE)
+- Farewell (PERSON)
+- Sweet Monsieur Parolles (PERSON)
+- Spurio (PERSON)
+- PAROLLES (GPE)
+- Mars (LOC)
+- Bertram (PERSON)
+- PAROLLES (GPE)
+- Worthy (PERSON)
+- Bertram (PERSON)
+- Parolles (GPE)
+- Lafew (PERSON)
+- King (LOC)
+- Quicken (PERSON)
+- King Pippen (ORG)
+- one (CARDINAL)
+- Wisdom (ORG)
+- Lafew (PERSON)
+- May (DATE)
+- Nay (PERSON)
+- Helen (GPE)
+- Enter Helen (FAC)
+- Helen (PRODUCT)
+- Nay (PRODUCT)
+- Majesty (PERSON)
+- Majesty (PERSON)
+- Cressid (PERSON)
+- two (CARDINAL)
+- Gerard de Narbon (PERSON)
+- one (CARDINAL)
+- two (CARDINAL)
+- Majesty (PERSON)
+- Thou (PERSON)
+- Moist Hesperus (ORG)
+- four (CARDINAL)
+- Hath (PERSON)
+- the thievish minutes (TIME)
+- Worth (LOC)
+- Thou (PERSON)
+- Skill (PERSON)
+- France (GPE)
+- Flourish (NORP)
+- 2 (CARDINAL)
+- Enter Countess (ORG)
+- COUNTESS (NORP)
+- COUNTESS (NORP)
+- Marry (PERSON)
+- COUNTESS (NORP)
+- ten (CARDINAL)
+- French (NORP)
+- Tib (PERSON)
+- Tom (PERSON)
+- Tuesday (DATE)
+- May Day (DATE)
+- a hundred (CARDINAL)
+- sir!--Thick (PERSON)
+- Helen (PERSON)
+- COUNTESS (NORP)
+- 3 (CARDINAL)
+- Lafew (PERSON)
+- Parolles (GPE)
+- PAROLLES (GPE)
+- Galen (PERSON)
+- Paracelsus (PERSON)
+- fellows-- (PRODUCT)
+- PAROLLES (GPE)
+- Lafew (GPE)
+- PAROLLES (GPE)
+- respect-- (ORG)
+- Nay (PERSON)
+- PAROLLES (GPE)
+- PAROLLES (GPE)
+- Enter King (PERSON)
+- Helen (PERSON)
+- King (LOC)
+- Dutchman (NORP)
+- PAROLLES (GPE)
+- Mort (PERSON)
+- Helen (LOC)
+- Attendant (PERSON)
+- Thou (GPE)
+- second (ORDINAL)
+- three (CARDINAL)
+- four (CARDINAL)
+- Thou (GPE)
+- one (CARDINAL)
+- Love (WORK_OF_ART)
+- Marry (PERSON)
+- one (CARDINAL)
+- Majesty (PERSON)
+- thou (GPE)
+- Dian (NORP)
+- Love (WORK_OF_ART)
+- twenty (CARDINAL)
+- Love (WORK_OF_ART)
+- English (LANGUAGE)
+- French (NORP)
+- one (CARDINAL)
+- fourteen (CARDINAL)
+- Bertram (PERSON)
+- Bertram (PERSON)
+- Know'st (GPE)
+- Bertram (PERSON)
+- daughter"--thou (PERSON)
+- Debauched (PERSON)
+- thou (GPE)
+- Proud (PERSON)
+- the King
+Smile (ORG)
+- Shall (PERSON)
+- tonight (TIME)
+- Shall (PERSON)
+- Lafew (PERSON)
+- PAROLLES (GPE)
+- the Count Rossillion (ORG)
+- Count (ORG)
+- two (CARDINAL)
+- thou (NORP)
+- PAROLLES (GPE)
+- thee--
+
+LAFEW (PRODUCT)
+- thou (GPE)
+- thou (GPE)
+- thou (GPE)
+- Sirrah (PERSON)
+- PAROLLES (GPE)
+- two hours (TIME)
+- PAROLLES (GPE)
+- Italy (GPE)
+- Parolles (GPE)
+- Tuscan (NORP)
+- PAROLLES (GPE)
+- France (GPE)
+- PAROLLES (GPE)
+- Mars (LOC)
+- France (GPE)
+- Acquaint (PERSON)
+- Shall (PERSON)
+- Italian (NORP)
+- Tomorrow (DATE)
+- 4 (CARDINAL)
+- two (CARDINAL)
+- two (CARDINAL)
+- Earth (LOC)
+- Enter Parolles (FAC)
+- PAROLLES  Bless (ORG)
+- PAROLLES (GPE)
+- Marry (PERSON)
+- Thou (PERSON)
+- PAROLLES (GPE)
+- Madam (PERSON)
+- tonight (TIME)
+- the coming hour (TIME)
+- May (DATE)
+- PAROLLES (GPE)
+- Parolles (GPE)
+- 5 (CARDINAL)
+- Bertram (PERSON)
+- Lordship (PRODUCT)
+- Enter Parolles (FAC)
+- PAROLLES (GPE)
+- Bertram (PERSON)
+- Bertram (PERSON)
+- BERTRAM (GPE)
+- Parolles (GPE)
+- King (LOC)
+- tonight (TIME)
+- tonight (TIME)
+- three thirds (CARDINAL)
+- BERTRAM (GPE)
+- Parolles (GPE)
+- PAROLLES (GPE)
+- Enter Helen (FAC)
+- Helen (PERSON)
+- first (ORDINAL)
+- Twill (PERSON)
+- two days (DATE)
+- servant-- (PERSON)
+- men?--Monsieur (FAC)
+- PAROLLES (GPE)
+- 3 (CARDINAL)
+- 1 (CARDINAL)
+- the Duke of Florence (PERSON)
+- two (CARDINAL)
+- Grace (ORG)
+- France (GPE)
+- Tomorrow (DATE)
+- Flourish (NORP)
+- 2 (CARDINAL)
+- Enter Countess (ORG)
+- Isbel (PERSON)
+- Isbels (ORG)
+- Isbels (ORG)
+- Cupid (ORG)
+- King (LOC)
+- Bertram (PERSON)
+- Enter Fool (ORG)
+- between
+two (CARDINAL)
+- two (CARDINAL)
+- Countess (NORP)
+- first (ORDINAL)
+- Madam (PERSON)
+- the Duke of Florence (FAC)
+- Thither (PERSON)
+- thou (GPE)
+- Thou (GPE)
+- SECOND (ORDINAL)
+- France (GPE)
+- France (GPE)
+- twenty (CARDINAL)
+- hourly (TIME)
+- COUNTESS (NORP)
+- Parolles (GPE)
+- France (GPE)
+- France (GPE)
+- Rossillion (ORG)
+- France (GPE)
+- Rossillion (PERSON)
+- Shall (PERSON)
+- 3 (CARDINAL)
+- the Duke of Florence (PERSON)
+- Parolles (GPE)
+- DUKE (ORG)
+- Bertram (PERSON)
+- Fortune (WORK_OF_ART)
+- This very day (DATE)
+- 4 (CARDINAL)
+- Enter Countess (ORG)
+- Steward (PERSON)
+- STEWARD (ORG)
+- Saint Jaques' (PERSON)
+- Juno (PERSON)
+- Rinaldo (PERSON)
+- STEWARD (ORG)
+- overnight (TIME)
+- Rinaldo (PERSON)
+- 5 (CARDINAL)
+- Widow of Florence (WORK_OF_ART)
+- Diana (PERSON)
+- Mariana (PERSON)
+- Citizens (ORG)
+- Nay (PERSON)
+- French (NORP)
+- WIDOW (PERSON)
+- Duke (ORG)
+- MARIANA (PERSON)
+- Diana (PERSON)
+- French (NORP)
+- WIDOW (PERSON)
+- Diana (PERSON)
+- MARIANA (PERSON)
+- One (CARDINAL)
+- Parolles (GPE)
+- Diana (PERSON)
+- WIDOW (PERSON)
+- Enter Helen (FAC)
+- the Saint Francis (FAC)
+- holy pilgrim (GPE)
+- WIDOW (PERSON)
+- pilgrim (ORG)
+- France (GPE)
+- The Count Rossillion (WORK_OF_ART)
+- DIANA  Whatsome'er (PERSON)
+- France (GPE)
+- DIANA  Alas (PERSON)
+- WIDOW (PERSON)
+- MARIANA (PERSON)
+- Drum and Colors (WORK_OF_ART)
+- Bertram Count Rossillion (PERSON)
+- Parolles (GPE)
+- Army (ORG)
+- Antonio (PERSON)
+- Duke (ORG)
+- Escalus (GPE)
+- Frenchman (NORP)
+- Yond (PERSON)
+- PAROLLES (GPE)
+- MARIANA (PERSON)
+- WIDOW (PERSON)
+- Parolles (GPE)
+- Marry (PERSON)
+- MARIANA (PERSON)
+- Parolles (GPE)
+- Bertram (GPE)
+- Parolles (GPE)
+- four (CARDINAL)
+- five (CARDINAL)
+- Great Saint Jaques (FAC)
+- tonight (TIME)
+- Shall (PERSON)
+- Worthy (PERSON)
+- 6 (CARDINAL)
+- first (ORDINAL)
+- FIRST (ORDINAL)
+- Nay (PERSON)
+- hourly (TIME)
+- Lordship (ORG)
+- Florentines (ORG)
+- Lordship (PRODUCT)
+- Lordship (PRODUCT)
+- John Drum's (PERSON)
+- Enter Parolles (FAC)
+- FIRST (ORDINAL)
+- Bertram (PERSON)
+- BERTRAM (GPE)
+- Parolles (GPE)
+- BERTRAM (GPE)
+- midnight (TIME)
+- BERTRAM (GPE)
+- Grace (ORG)
+- PAROLLES (GPE)
+- a week (DATE)
+- two (CARDINAL)
+- tonight (TIME)
+- Lordship (ORG)
+- first (ORDINAL)
+- this very night (TIME)
+- Lordship (ORG)
+- Tokens (GPE)
+- First (ORDINAL)
+- Err (PERSON)
+- WIDOW (PERSON)
+- some four or five (CARDINAL)
+- first (ORDINAL)
+- Howe'er (ORG)
+- WIDOW (PERSON)
+- three thousand (CARDINAL)
+- WIDOW (PERSON)
+- May (DATE)
+- tonight (TIME)
+- 4 (CARDINAL)
+- 1 (CARDINAL)
+- the French Lords (ORG)
+- five (CARDINAL)
+- six (CARDINAL)
+- ho (PERSON)
+- two hours (TIME)
+- Enter Parolles (FAC)
+- PAROLLES (GPE)
+- these three hours (TIME)
+- Mars (LOC)
+- first (ORDINAL)
+- Tongue (PERSON)
+- Bajazeth (PERSON)
+- Spanish (LANGUAGE)
+- PAROLLES (GPE)
+- PAROLLES (GPE)
+- Thirty (CARDINAL)
+- Three (CARDINAL)
+- one (CARDINAL)
+- PAROLLES (GPE)
+- Cargo (PRODUCT)
+- corbo (ORG)
+- Muskos (PERSON)
+- German (NORP)
+- Dutch (NORP)
+- Italian (NORP)
+- French (NORP)
+- Kerelybonto (ORG)
+- seventeen (CARDINAL)
+- PAROLLES (GPE)
+- reuania
+dulche (PERSON)
+- Parolles (GPE)
+- the Count Rossillion (ORG)
+- 2 (CARDINAL)
+- Bertram (PERSON)
+- Diana (PERSON)
+- Fontibell (ORG)
+- Diana (PERSON)
+- BERTRAM (ORG)
+- DIANA  Ay (PERSON)
+- Jove (PERSON)
+- DIANA  Mine (PERSON)
+- Honor (PERSON)
+- midnight (TIME)
+- Remain (PERSON)
+- May (DATE)
+- Adieu (PERSON)
+- Earth (LOC)
+- Frenchmen (PERSON)
+- Marry (PERSON)
+- 3 (CARDINAL)
+- two (CARDINAL)
+- French (NORP)
+- some two (CARDINAL)
+- three (CARDINAL)
+- FIRST (ORDINAL)
+- Florence of (ORG)
+- this night (TIME)
+- tonight (TIME)
+- midnight (TIME)
+- his hour (TIME)
+- Nay (PERSON)
+- France (GPE)
+- some two months (DATE)
+- Saint Jaques le Grand (FAC)
+- Enter a Servant (WORK_OF_ART)
+- Lordship (ORG)
+- next morning (TIME)
+- France (GPE)
+- Duke (ORG)
+- King (LOC)
+- midnight (TIME)
+- tonight (TIME)
+- sixteen (CARDINAL)
+- month (DATE)
+- this morning (TIME)
+- Lordship (PRODUCT)
+- all
+night (TIME)
+- Lordship (PRODUCT)
+- Morgan (PERSON)
+- Enter Parolles (GPE)
+- Interpreter (PERSON)
+- the First Soldier (ORG)
+- BERTRAM (ORG)
+- Bertram (PERSON)
+- Hush (PERSON)
+- Hoodman
+comes.--Portotartarossa (ORG)
+- Parolles (GPE)
+- PAROLLES (GPE)
+- First (ORDINAL)
+- PAROLLES (GPE)
+- Five or six thousand (DATE)
+- BERTRAM (GPE)
+- Bertram (PERSON)
+- Monsieur Parolles (GPE)
+- Parolles (GPE)
+- Five (CARDINAL)
+- six thousand (CARDINAL)
+- BERTRAM (GPE)
+- a
+hundred and fifty (CARDINAL)
+- Sebastian (PERSON)
+- Corambus (PERSON)
+- Jaques (PERSON)
+- Guiltian (NORP)
+- Cosmo (ORG)
+- Lodowick and Gratii (ORG)
+- two hundred fifty (CARDINAL)
+- Chitopher (ORG)
+- Vaumond (GPE)
+- Bentii (GPE)
+- two
+hundred (CARDINAL)
+- fifteen
+thousand (CARDINAL)
+- half (CARDINAL)
+- BERTRAM (GPE)
+- Parolles (GPE)
+- one (CARDINAL)
+- Dumaine (PERSON)
+- Frenchman (ORG)
+- Dumaine (PERSON)
+- Paris (GPE)
+- BERTRAM (GPE)
+- First (ORDINAL)
+- Nay (PRODUCT)
+- Florence (ORG)
+- Bertram (PERSON)
+- Nay (PRODUCT)
+- PAROLLES (GPE)
+- this other day (DATE)
+- Marry (PERSON)
+- Parolles (GPE)
+- Duke (ORG)
+- gold--
+
+PAROLLES  That is (GPE)
+- Duke (ORG)
+- Florence (GPE)
+- one (CARDINAL)
+- Diana (PERSON)
+- one (CARDINAL)
+- first (ORDINAL)
+- BERTRAM (GPE)
+- Dian (NORP)
+- Thine (GPE)
+- Parolles (GPE)
+- BERTRAM (GPE)
+- BERTRAM (GPE)
+- Parolles (GPE)
+- Nessus (PERSON)
+- Hercules (GPE)
+- BERTRAM (GPE)
+- English (LANGUAGE)
+- Mile End (PERSON)
+- BERTRAM (GPE)
+- SECOND (ORDINAL)
+- PAROLLES (GPE)
+- first (ORDINAL)
+- one (CARDINAL)
+- Marry (PERSON)
+- Florentine (PERSON)
+- PAROLLES (GPE)
+- PAROLLES (GPE)
+- Parolles (PERSON)
+- France (GPE)
+- Diana (PERSON)
+- the Count
+Rossillion (ORG)
+- Bertram (PERSON)
+- France (GPE)
+- Shall (PERSON)
+- Parolles (GPE)
+- 4 (CARDINAL)
+- Diana (PERSON)
+- One (CARDINAL)
+- Christian (NORP)
+- Shall (PERSON)
+- Tartar (ORG)
+- Grace (PERSON)
+- Marseilles (GPE)
+- WIDOW (PERSON)
+- Diana (PERSON)
+- summer (DATE)
+- 5 (CARDINAL)
+- Enter Fool (ORG)
+- Countess (GPE)
+- Lafew (PERSON)
+- this hour (TIME)
+- Frenchman (NORP)
+- English (LANGUAGE)
+- phys'nomy (PERSON)
+- France (GPE)
+- Nobility (ORG)
+- Majesty (PERSON)
+- first (ORDINAL)
+- Marseilles (GPE)
+- thirty (CARDINAL)
+- tomorrow (DATE)
+- tonight (TIME)
+- Lordship (PRODUCT)
+- Madam (PERSON)
+- Enter Fool (ORG)
+- yonder (PERSON)
+- two (CARDINAL)
+- half (CARDINAL)
+- Faith (PERSON)
+- a dozen (CARDINAL)
+- 5 (CARDINAL)
+- 1 (CARDINAL)
+- Diana (PERSON)
+- two (CARDINAL)
+- the days (DATE)
+- Gentleman (ORG)
+- Astringer (PRODUCT)
+- Majesty (PERSON)
+- France (GPE)
+- last night (TIME)
+- Rossillion (ORG)
+- Whate'er (ORG)
+- 2 (CARDINAL)
+- Enter Fool (ORG)
+- Parolles (GPE)
+- PAROLLES (GPE)
+- Good Monsieur
+Lavatch (PERSON)
+- Lafew (PERSON)
+- Fortune's (WORK_OF_ART)
+- Fortune's (WORK_OF_ART)
+- Fortune's butt'ring (WORK_OF_ART)
+- PAROLLES (GPE)
+- Fortune (WORK_OF_ART)
+- Fortune's (WORK_OF_ART)
+- Fortune's (WORK_OF_ART)
+- Lordship (PRODUCT)
+- Fortune (WORK_OF_ART)
+- Fortune (WORK_OF_ART)
+- Honor (ORG)
+- one (CARDINAL)
+- a single penny (MONEY)
+- Parolles (GPE)
+- Cock (PERSON)
+- first (ORDINAL)
+- first (ORDINAL)
+- One (CARDINAL)
+- Sirrah (PERSON)
+- last night (TIME)
+- 3 (CARDINAL)
+- Enter King (PERSON)
+- Lafew (PERSON)
+- two (CARDINAL)
+- Majesty (PERSON)
+- first (ORDINAL)
+- Majesty (PERSON)
+- first (ORDINAL)
+- a day of season (DATE)
+- quick'st (DATE)
+- first (ORDINAL)
+- Helen (PERSON)
+- Maudlin (PERSON)
+- second (ORDINAL)
+- first (ORDINAL)
+- Bertram (PERSON)
+- Helen (PERSON)
+- Lafew (NORP)
+- King (LOC)
+- Helen (PERSON)
+- Bertram (PERSON)
+- COUNTESS (NORP)
+- Florence (ORG)
+- Plutus (PERSON)
+- Hath (PERSON)
+- Helen (PERSON)
+- Shall (PERSON)
+- Florence (GPE)
+- Gentleman (NORP)
+- four (CARDINAL)
+- five (CARDINAL)
+- the Count Rossillion (ORG)
+- Florence (ORG)
+- Diana Capilet (PERSON)
+- Lafew (PERSON)
+- Gentleman (ORG)
+- Helen (GPE)
+- COUNTESS (GPE)
+- Enter Bertram (ORG)
+- Diana (PERSON)
+- Florentine (PERSON)
+- Capilet (ORG)
+- Bertram (PERSON)
+- BERTRAM (GPE)
+- DIANA  Good (PERSON)
+- six (CARDINAL)
+- thousand (CARDINAL)
+- Diana (PERSON)
+- Parolles (GPE)
+- today (DATE)
+- Attendant (PERSON)
+- first (ORDINAL)
+- May (DATE)
+- Diana (PERSON)
+- Enter Parolles (FAC)
+- DIANA  Ay (PERSON)
+- Majesty (PERSON)
+- Majesty (PERSON)
+- PAROLLES (PERSON)
+- Majesty (PERSON)
+- Satan (GPE)
+- Thou (GPE)
+- Diana (PERSON)
+- DIANA   (PERSON)
+- first (ORDINAL)
+- thou (GPE)
+- Thou (GPE)
+- this hour (TIME)
+- Bertram (PERSON)
+- Jove (PERSON)
+- one (CARDINAL)
+- one (CARDINAL)
+- Enter Helen and (FAC)
+- Beguiles (PERSON)
+- Parolles (GPE)
+- Tom Drum (PERSON)
+- Diana (PERSON)
+- Thou (GPE)
+- Flourish (NORP)
 
 Relations (Subject-Verb-Object):
-- It -> develops -> products
+- I -> bury -> husband
+- I -> weep -> o'er
+- I -> attend -> command
+- You -> find -> husband
+- He -> hold -> virtue
+- must -> hold -> virtue
+- worthiness -> stir -> it
+- He -> abandoned -> physicians
+- practices -> persecuted -> time
+- gentlewoman -> had -> father
+- lord -> LAFEW -> fistula
+- I -> have -> hopes
+- education -> promises -> that
+- which -> makes -> gifts
+- mind -> carries -> qualities
+- She -> derives -> honesty
+- COUNTESS -> Tis -> brine
+- remembrance -> approaches -> heart
+- tyranny -> takes -> livelihood
+- you -> affect -> sorrow
+- I -> affect -> sorrow
+- I -> have -> it
+- I -> desire -> wishes
+- we -> understand -> that
+- Love -> trust -> few
+- He -> want -> best
+- that -> Attend -> love
+- Heaven -> bless -> him.--Farewell
+- You -> hold -> credit
+- tears -> grace -> remembrance
+- I -> forgot -> him
+- imagination -> Carries -> favor
+- I -> love -> star
+- ambition -> plagues -> itself
+- fancy -> sanctify -> relics
+- I -> love -> him
+- I -> know -> him
+- they -> take -> place
+- Withal -> see -> wisdom
+- we -> see -> wisdom
+- PAROLLES -> Save -> you
+- You -> have -> stain
+- me -> ask -> question
+- we -> barricado -> it
+- PAROLLES -> Keep -> him
+- you -> undermine -> you
+- HELEN -> Bless -> virginity
+- virgins -> blow -> men
+- you -> lose -> city
+- I -> die -> virgin
+- that -> hangs -> himself
+- Virginity -> breeds -> mites
+- it -> likes -> ne'er
+- Virginity -> wears -> cap
+- master -> have -> loves
+- That -> blinking -> gossips
+- I -> know -> he--
+- God -> send -> him
+- I -> wish -> That
+- That -> had -> body
+- stars -> shut -> us
+- effects -> follow -> friends
+- we -> think -> what
+- which -> Returns -> us
+- I -> remember -> thee
+- PAROLLES -> think -> you
+- fear -> proposes -> safety
+- valor -> makes -> that
+- I -> answer -> thee
+- I -> return -> courtier
+- instruction -> serve -> which
+- none -> remember -> friends
+- he -> uses -> thee
+- we -> ascribe -> Which
+- sky -> Gives -> scope
+- doth -> pull -> designs
+- That -> weigh -> pains
+- that -> miss -> love
+- disease -> deceive -> me
+- project -> deceive -> me
+- We -> receive -> it
+- Florentine -> move -> us
+- us -> make -> denial
+- It -> serve -> nursery
+- he -> comes -> What
+- nature -> composed -> thee
+- I -> had -> soundness
+- First -> tried -> soldiership
+- It -> repairs -> me
+- He -> had -> wit
+- I -> observe -> which
+- they -> hide -> levity
+- equal -> awaked -> them
+- honor -> knew -> minute
+- tongue -> obeyed -> hand
+- Which -> demonstrate -> them
+- I -> hear -> him
+- me -> live"-- -> This
+- flame -> lacks -> oil
+- he -> wished -> This
+- They -> lend -> it
+- that -> lend -> it
+- you -> lack -> you
+- I -> fill -> place
+- I -> try -> him
+- rest -> worn -> me
+- Nature -> Debate -> it
+- I -> hear -> COUNTESS
+- Madam -> wound -> modesty
+- we -> wound -> modesty
+- we -> publish -> them
+- this -> knave -> What
+- I -> do -> that
+- I -> have -> will
+- I -> beg -> will
+- I -> have -> blessing
+- I -> have -> issue
+- COUNTESS -> Tell -> reason
+- FOOL -> requires -> it
+- Faith -> have -> reasons
+- I -> have -> reasons
+- world -> know -> them
+- He -> spares -> team
+- that -> ears -> land
+- that -> comforts -> wife
+- flesh -> loves -> flesh
+- he -> kisses -> wife
+- that -> kisses -> wife
+- they -> jowl -> horns
+- I -> speak -> truth
+- it -> please -> you
+- Sirrah -> tell -> gentlewoman
+- she -> sacked -> Troy
+- Grecians -> sacked -> Troy
+- You -> corrupt -> song
+- God -> serve -> world
+- We -> find -> fault
+- we -> have -> woman
+- man -> draw -> heart
+- he -> pluck -> one
+- I -> command -> you
+- it -> do -> hurt
+- it -> wear -> surplice
+- Helen -> come -> hither
+- I -> know -> STEWARD
+- you -> love -> gentlewoman
+- I -> do -> Faith
+- father -> bequeathed -> her
+- she -> wished -> me
+- I -> dare -> vow
+- they -> touched -> sense
+- she -> loved -> son
+- that -> put -> difference
+- that -> extend -> might
+- she -> delivered -> This
+- I -> heard -> exclaim
+- I -> held -> which
+- it -> concerns -> something
+- You -> discharged -> this
+- likelihoods -> informed -> me
+- I -> believe -> that
+- you -> leave -> me
+- I -> thank -> you
+- we -> thought -> them
+- I -> observe -> her
+- I -> said -> mother
+- you -> saw -> serpent
+- choice -> breeds -> slip
+- You -> oppressed -> me
+- I -> express -> care
+- mercy -> curd -> blood
+- it -> curd -> blood
+- messenger -> rounds -> eye
+- hath -> catched -> fondness
+- I -> see -> mystery
+- You -> love -> son
+- eyes -> See -> it
+- they -> speak -> it
+- sin -> tie -> tongue
+- you -> wound -> clew
+- t -> charge -> thee
+- I -> charge -> thee
+- madam -> pardon -> me
+- COUNTESS -> love -> son
+- you -> love -> son
+- you -> love -> him
+- world -> takes -> note
+- I -> love -> son
+- I -> follow -> him
+- I -> have -> him
+- I -> deserve -> him
+- I -> adore -> sun
+- honor -> cites -> youth
+- COUNTESS -> Had -> Madam
+- you -> Had -> Madam
+- I -> tell -> truth
+- father -> left -> me
+- he -> willed -> me
+- you -> tender -> aid
+- He -> receive -> it
+- they -> help -> him
+- they -> credit -> virgin
+- Emboweled -> left -> danger
+- I -> venture -> life
+- Helen -> have -> leave
+- I -> help -> What
+- Rossillion -> Enter -> King
+- both -> gain -> all
+- doth -> stretch -> itself
+- LORD -> Tis -> hope
+- he -> owes -> malady
+- That -> doth -> life
+- Those -> bated -> inherit
+- you -> seek -> what
+- Health -> serve -> Majesty
+- KING -> take -> heed
+- They -> say -> language
+- hearts -> receive -> warnings
+- I -> seen -> wars
+- PAROLLES -> Commit -> it
+- you -> do -> What
+- PAROLLES -> Use -> ceremony
+- You -> restrained -> yourself
+- they -> wear -> themselves
+- devil -> lead -> measure
+- I -> fee -> thee
+- that -> brought -> pardon
+- I -> broke -> pate
+- t. -> LAFEW -> faith
+- No -> LAFEW -> O
+- you -> eat -> grapes
+- fox -> reach -> them
+- I -> seen -> medicine
+- you -> see -> her
+- I -> convey -> thoughts
+- you -> see -> her--
+- Lafew -> Bring -> admiration
+- we -> spend -> wonder
+- thou -> took'st -> it
+- I -> fit -> you
+- Majesty -> fears -> traitors
+- That -> leave -> two
+- He -> exits -> KING
+- one -> follow -> us
+- business -> follow -> us
+- I -> knew -> him
+- The -> spare -> praises
+- I -> spare -> praises
+- he -> gave -> me
+- Which -> bade -> me
+- He -> bade -> me
+- We -> thank -> you
+- doctors -> leave -> us
+- art -> ransom -> nature
+- we -> stain -> judgment
+- duty -> pay -> me
+- I -> enforce -> office
+- I -> give -> thee
+- I -> know -> what
+- I -> knowing -> peril
+- you -> set -> remedy
+- Oft -> does -> them
+- writ -> hath -> judgment
+- I -> hear -> thee
+- Proffers -> took -> thanks
+- that -> square -> guess
+- we -> count -> act
+- me -> make -> experiment
+- that -> proclaim -> Myself
+- grace -> bring -> fiery
+- horses -> bring -> fiery
+- Ere -> quenched -> lamp
+- glass -> told -> minutes
+- Methinks -> speak -> sound
+- sense -> saves -> way
+- life -> rate -> name
+- Thou -> intimate -> infinite
+- ministers -> thine -> death
+- I -> break -> time
+- I -> spoke -> what
+- you -> promise -> what
+- KING -> Make -> demand
+- you -> make -> it
+- thou -> give -> me
+- I -> command -> husband
+- I -> know -> whom
+- I -> question -> thee
+- deed -> match -> deed
+- I -> put -> you
+- you -> put -> that
+- God -> lent -> manners
+- he -> put -> it
+- He -> put -> cap
+- that -> make -> leg
+- that -> fits -> questions
+- that -> fits -> buttocks
+- COUNTESS -> serve -> fit
+- answer -> serve -> fit
+- COUNTESS -> Have -> you
+- it -> fit -> question
+- that -> fit -> demands
+- FOOL -> speak -> truth
+- learned -> speak -> truth
+- it -> do -> you
+- I -> pray -> you
+- that -> loves -> you
+- COUNTESS -> eat -> none
+- you -> eat -> none
+- FOOL -> put -> me
+- I -> warrant -> you
+- FOOL -> sir!--Spare -> me
+- You -> answer -> I
+- I -> play -> huswife
+- You -> understand -> me
+- we -> have -> persons
+- we -> make -> trifles
+- we -> submit -> ourselves
+- I -> say -> both
+- That -> gave -> PAROLLES
+- Right -> LAFEW -> life
+- man -> LAFEW -> life
+- you -> have -> it
+- you -> read -> it
+- I -> said -> same
+- I -> speak -> tis
+- which -> give -> use
+- I -> said -> it
+- I -> like -> maid
+- I -> have -> tooth
+- Helen -> LAFEW -> God
+- Go -> call -> lords
+- hast -> repealed -> sense
+- time -> receive -> confirmation
+- whom -> sovereign -> power
+- I -> give -> Curtal
+- KING -> Peruse -> them
+- one -> had -> father
+- We -> understand -> it
+- I -> protest -> That
+- blushes -> whisper -> me
+- shouldst -> choose -> that
+- KING -> Make -> choice
+- love -> shuns -> love
+- She -> addresses -> her
+- you -> hear -> suit
+- I -> speak -> replies
+- I -> take -> leave
+- they -> deny -> her
+- I -> send -> them
+- I -> do -> you
+- Blessing -> Find -> fortune
+- they -> have -> her
+- ne'er -> got -> 'em
+- I -> known -> thee
+- I -> take -> you
+- I -> give -> Me
+- KING -> take -> her
+- I -> beseech -> Highness
+- she -> done -> What
+- I -> marry -> her
+- she -> raised -> me
+- I -> know -> her
+- She -> had -> breeding
+- KING -> Tis -> title
+- I -> build -> which
+- Which -> challenges -> itself
+- canst -> create -> rest
+- I -> create -> rest
+- I -> love -> her
+- I -> produce -> power.--Here
+- dost -> shackle -> love
+- I -> throw -> thee
+- Pardon -> submit -> fancy
+- I -> submit -> fancy
+- I -> consider -> creation
+- you -> bid -> it
+- KING -> Take -> her
+- I -> promise -> counterpoise
+- I -> take -> hand
+- lov'st -> does -> err
+- master -> LAFEW -> Ay
+- it -> satisfy -> you
+- I -> tell -> thee
+- I -> write -> man
+- age -> bring -> thee
+- I -> dare -> What
+- I -> think -> thee
+- didst -> make -> vent
+- scarves -> dissuade -> me
+- I -> found -> thee
+- I -> lose -> thee
+- privilege -> plunge -> thyself
+- LAFEW -> plunge -> thyself
+- thou -> hasten -> trial
+- Lord -> have -> mercy
+- window -> fare -> thee
+- you -> give -> indignity
+- I -> bate -> thee
+- canst -> pull -> contrary
+- hast -> pull -> contrary
+- I -> have -> desire
+- you -> do -> PAROLLES
+- poor -> doing -> eternal
+- age -> give -> me
+- hast -> take -> disgrace
+- son -> take -> disgrace
+- I -> beat -> him
+- I -> meet -> him
+- I -> have -> pity
+- I'll -> beat -> him
+- Lafew -> LAFEW -> Sirrah
+- you -> have -> mistress
+- I -> serve -> whom
+- Dost -> make -> hose
+- wert -> set -> part
+- I -> beat -> thee
+- art -> beat -> thee
+- man -> beat -> thee
+- men -> breathe -> themselves
+- I -> leave -> you
+- I -> bed -> her
+- they -> married -> me
+- He -> wears -> honor
+- That -> hugs -> kicky
+- Which -> sustain -> curvet
+- I -> send -> her
+- gift -> furnish -> me
+- I -> send -> her
+- King -> done -> you
+- mother -> greets -> me
+- she -> has -> health
+- she -> ail -> what
+- One -> send -> her
+- God -> send -> her
+- God -> send -> her
+- I -> have -> will
+- You -> had -> prayers
+- you -> had -> wrinkles
+- I -> say -> nothing
+- tongue -> shakes -> undoing
+- You -> said -> FOOL
+- I -> found -> thee
+- FOOL -> find -> me
+- you -> find -> me
+- you -> find -> fool
+- they -> distill -> Which
+- you -> take -> leave
+- you -> Attend -> pleasure
+- I -> report -> it
+- Parolles -> exits -> HELEN
+- I -> pray -> you
+- You -> have -> it
+- I -> took -> lark
+- I -> assure -> you
+- you -> make -> friends
+- I -> pursue -> amity
+- Sir -> LAFEW -> O
+- I -> know -> him
+- you -> have -> her
+- I -> writ -> letters
+- I -> take -> possession
+- that -> lies -> thirds
+- God -> save -> you
+- You -> made -> shift
+- you -> mistaken -> him
+- I -> took -> him
+- we -> do -> good
+- you -> know -> him
+- I -> know -> him
+- speech -> Gives -> pass
+- he -> desires -> speech
+- I -> obey -> will
+- This -> drives -> me
+- you -> take -> way
+- I -> entreat -> you
+- appointments -> have -> Greater
+- that -> know -> them
+- I -> see -> you
+- I -> leave -> you
+- you -> say -> what
+- I -> say -> mine
+- you -> have -> What
+- I -> tell -> you
+- I -> break -> bidding
+- I -> shake -> sword
+- decision -> hath -> blood
+- DUKE -> marvel -> cousin
+- we -> marvel -> cousin
+- France -> shut -> bosom
+- business -> shut -> bosom
+- I -> think -> what
+- I -> found -> Myself
+- You -> know -> places
+- I -> had -> it
+- I -> take -> lord
+- I -> pray -> you
+- I -> know -> man
+- that -> had -> trick
+- he -> writes -> what
+- She -> opens -> letter
+- I -> have -> mind
+- man -> loves -> money
+- you -> have -> that
+- He -> exits -> COUNTESS
+- I -> sent -> daughter
+- She -> recovered -> King
+- I -> wedded -> her
+- I -> hold -> distance
+- FOOL -> say -> I
+- GENTLEMAN -> Save -> you
+- I -> felt -> quirks
+- face -> woman -> me
+- I -> pray -> you
+- We -> met -> him
+- canst -> get -> ring
+- I -> write -> a
+- COUNTESS -> Brought -> letter
+- I -> prithee -> COUNTESS
+- prithee -> have -> cheer
+- I -> wash -> name
+- Duke -> lay -> honor
+- COUNTESS -> Return -> you
+- I -> have -> wife
+- I -> have -> nothing
+- COUNTESS -> Find -> you
+- he -> have -> wife
+- she -> deserves -> lord
+- I -> known -> Which
+- son -> corrupts -> nature
+- lady -> has -> deal
+- fellow -> has -> deal
+- I -> entreat -> you
+- you -> see -> son
+- sword -> win -> honor
+- he -> loses -> that
+- I -> entreat -> you
+- We -> serve -> you
+- we -> change -> courtesies
+- She -> exits -> HELEN
+- I -> have -> wife
+- I -> have -> nothing
+- he -> has -> wife
+- shalt -> have -> none
+- That -> drive -> thee
+- I -> set -> him
+- that -> hold -> him
+- I -> kill -> him
+- twere -> met -> lion
+- I -> met -> lion
+- it -> loses -> all
+- that -> holds -> thee
+- air -> did -> fan
+- angels -> officed -> all
+- rumor -> report -> flight
+- I -> put -> myself
+- I -> prove -> lover
+- you -> take -> letter
+- [ -> reads -> letter
+- I -> sent -> him
+- death -> dogs -> heels
+- I -> embrace -> Whom
+- you -> lack -> advice
+- I -> diverted -> intents
+- she -> prevented -> Which
+- I -> given -> this
+- angel -> Bless -> husband
+- prayers -> reprieve -> him
+- word -> weigh -> heavy
+- he -> weigh -> light
+- grief -> feel -> it
+- he -> feel -> it
+- I -> have -> skill
+- Grief -> have -> tears
+- they -> approach -> city
+- we -> lose -> sight
+- count -> done -> service
+- he -> taken -> commander
+- he -> slew -> brother
+- We -> lost -> labor
+- WIDOW -> told -> neighbor
+- I -> told -> neighbor
+- I -> know -> knave
+- that -> threatens -> them
+- grace -> keep -> you
+- I -> hope -> WIDOW
+- they -> send -> one
+- I -> question -> her.--God
+- I -> conduct -> you
+- I -> know -> hostess
+- I -> thank -> you
+- you -> see -> countryman
+- That -> done -> service
+- I -> pray -> you
+- face -> DIANA -> Whatsome'er
+- King -> married -> him
+- I -> know -> lady
+- that -> serves -> Reports
+- I -> warrant -> WIDOW
+- maid -> do -> turn
+- count -> solicits -> her
+- That -> DIANA -> He
+- I -> loved -> wife
+- he -> loved -> wife
+- I -> like -> him
+- That -> leads -> him
+- I -> poison -> rascal
+- PAROLLES -> Lose -> drum
+- he -> spied -> us
+- WIDOW -> hang -> you
+- I -> bring -> you
+- I -> thank -> you
+- I -> bestow -> precepts
+- We -> take -> offer
+- Nay -> put -> him
+- him -> have -> way
+- LORD -> Believe -> it
+- you -> knew -> him
+- he -> hath -> which
+- him -> fetch -> drum
+- you -> hear -> which
+- I -> surprise -> him
+- he -> suppose -> other
+- we -> bring -> him
+- him -> fetch -> drum
+- he -> has -> stratagem
+- Lordship -> sees -> bottom
+- you -> give -> entertainment
+- him -> fetch -> drum
+- Caesar -> prevented -> that
+- we -> condemn -> success
+- I -> have -> drum
+- you -> have -> stomach
+- mystery -> bring -> instrument
+- I -> grace -> attempt
+- I -> undertake -> it
+- I -> pen -> dilemmas
+- I -> know -> valiant
+- I -> love -> words
+- fish -> loves -> water
+- You -> know -> him
+- he -> steal -> himself
+- you -> find -> him
+- you -> have -> him
+- he -> make -> deed
+- that -> address -> himself
+- he -> address -> himself
+- we -> embossed -> him
+- You -> see -> fall
+- we -> case -> him
+- you -> find -> sprat
+- you -> see -> which
+- I -> leave -> you
+- I -> lead -> you
+- I -> sent -> send
+- we -> have -> wind
+- you -> misdoubt -> me
+- I -> assure -> you
+- I -> lose -> grounds
+- I -> wish -> you
+- I -> spoken -> what
+- I -> borrow -> that
+- I -> believe -> you
+- you -> showed -> that
+- HELEN -> Take -> purse
+- me -> buy -> help
+- I -> overpay -> Which
+- I -> found -> it
+- he -> woos -> daughter
+- we -> direct -> her
+- hath -> succeeded -> descents
+- father -> wore -> it
+- I -> see -> bottom
+- I -> add -> crowns
+- I -> yielded -> WIDOW
+- she -> persever -> time
+- It -> steads -> us
+- nothing -> steads -> us
+- us -> assay -> plot
+- you -> understand -> it
+- we -> produce -> whom
+- No -> warrant -> you
+- I -> warrant -> you
+- he -> hath -> smack
+- I -> say -> What
+- that -> carries -> it
+- heart -> hath -> fear
+- devil -> move -> me
+- I -> had -> purpose
+- I -> give -> hurts
+- I -> got -> them
+- ones -> carry -> it
+- I -> put -> you
+- you -> prattle -> me
+- PAROLLES -> serve -> turn
+- cutting -> serve -> turn
+- We -> afford -> you
+- I -> had -> drum
+- I -> recovered -> it
+- You -> hear -> anon
+- They -> seize -> him
+- They -> blindfold -> him
+- I -> lose -> life
+- I -> discover -> that
+- which -> undo -> Florentine
+- I -> understand -> thee
+- I -> show -> secrets
+- I -> speak -> that
+- art -> granted -> space
+- We -> caught -> woodcock
+- He -> betray -> us
+- I -> keep -> him
+- They -> told -> me
+- I -> love -> thee
+- you -> serve -> us
+- we -> serve -> you
+- you -> have -> roses
+- You -> leave -> thorns
+- that -> makes -> truth
+- I -> loved -> you
+- you -> believe -> oaths
+- I -> love -> you
+- This -> has -> holding
+- I -> protest -> whom
+- integrity -> knew -> crafts
+- you -> charge -> men
+- we -> forsake -> ourselves
+- I -> lend -> thee
+- I -> charge -> you
+- you -> conquered -> bed
+- you -> know -> them
+- I -> put -> ring
+- You -> won -> wife
+- mother -> told -> me
+- men -> Have -> oaths
+- = -> Enter -> Lords
+- You -> given -> letter
+- I -> delivered -> it
+- that -> stings -> nature
+- He -> has -> blame
+- he -> incurred -> displeasure
+- who -> tuned -> bounty
+- I -> tell -> you
+- you -> spoken -> it
+- He -> perverted -> gentlewoman
+- he -> fleshes -> will
+- God -> delay -> rebellion
+- them -> reveal -> themselves
+- We -> have -> company
+- That -> approaches -> apace
+- he -> take -> measure
+- he -> set -> counterfeit
+- I -> assure -> you
+- LORD -> Hath -> Count
+- we -> drown -> gain
+- hath -> acquired -> that
+- faults -> whipped -> them
+- He -> met -> Duke
+- he -> taken -> whom
+- hath -> offered -> letters
+- I -> dispatched -> businesses
+- it -> requires -> haste
+- we -> have -> dialogue
+- LORD -> Bring -> him
+- heels -> deserved -> it
+- he -> carry -> himself
+- I -> told -> Lordship
+- stocks -> carry -> him
+- that -> shed -> milk
+- He -> confessed -> himself
+- you -> have -> patience
+- He -> say -> nothing
+- you -> say -> What
+- I -> know -> what
+- you -> pinch -> me
+- I -> say -> more
+- I -> ask -> you
+- strong.--What -> say -> you
+- I -> set -> answer
+- I -> take -> Sacrament
+- I -> trust -> man
+- he -> have -> everything
+- PAROLLES -> say -> thereabouts
+- I -> say -> thereabouts
+- I -> speak -> truth
+- I -> con -> thanks
+- he -> delivers -> it
+- I -> thank -> you
+- foot.--What -> say -> you
+- me -> see -> Spurio
+- half -> shake -> snow
+- which -> shake -> snow
+- they -> shake -> themselves
+- him -> have -> thanks
+- I -> have -> credit
+- revolt.--What -> say -> you
+- you -> know -> What
+- you -> know -> Dumaine
+- I -> know -> him
+- that -> say -> him
+- Nay -> hold -> hands
+- Duke -> knows -> him
+- I -> have -> letter
+- They -> search -> pockets
+- I -> read -> it
+- interpreter -> does -> it
+- I -> pray -> you
+- Nay -> read -> it
+- I -> read -> it
+- he -> swears -> oaths
+- he -> pays -> score
+- soldier -> told -> thee
+- I -> know -> it
+- he -> owe -> it
+- BERTRAM -> endure -> anything
+- I -> endure -> anything
+- I -> repent -> remainder
+- he -> parallels -> Nessus
+- he -> does -> harm
+- they -> know -> conditions
+- I -> have -> more
+- he -> has -> everything
+- man -> have -> what
+- he -> has -> nothing
+- What -> say -> you
+- Faith -> led -> drum
+- he -> had -> honor
+- I -> do -> man
+- He -> hath -> villainy
+- rarity -> redeems -> him
+- gold -> corrupt -> him
+- Sir -> sell -> simple
+- he -> sell -> simple
+- he -> ask -> him
+- He -> excels -> brother
+- he -> outruns -> lackey
+- Marry -> has -> cramp
+- he -> has -> cramp
+- who -> suspected -> ambush
+- General -> says -> you
+- that -> discovered -> secrets
+- reports -> serve -> world
+- me -> see -> death
+- He -> removes -> blindfold
+- God -> bless -> you
+- God -> save -> you
+- you -> give -> copy
+- I -> compel -> it
+- that -> has -> knot
+- you -> find -> country
+- that -> received -> shame
+- you -> begin -> nation
+- He -> exits -> PAROLLES
+- Who -> knows -> himself
+- him -> fear -> this
+- Parolles -> live -> Safest
+- you -> perceive -> That
+- I -> wronged -> you
+- I -> perfect -> intents
+- I -> did -> office
+- We -> have -> convoy
+- breaking -> hies -> him
+- husband -> hies -> him
+- WIDOW -> had -> servant
+- You -> had -> servant
+- Hath -> brought -> me
+- it -> fated -> her
+- they -> hate -> what
+- it -> loathes -> what
+- more -> suffer -> Something
+- I -> pray -> you--
+- time -> bring -> summer
+- briers -> have -> leaves
+- time -> revives -> us
+- = -> LAFEW -> No
+- saffron -> made -> youth
+- I -> known -> him
+- nature -> had -> praise
+- I -> owed -> love
+- We -> pick -> salads
+- I -> have -> skill
+- I -> cozen -> man
+- I -> give -> bauble
+- I -> serve -> you
+- he -> has -> name
+- FOOL -> alias -> prince
+- I -> give -> thee
+- that -> loved -> fire
+- master -> keeps -> fire
+- I -> take -> which
+- that -> humble -> themselves
+- I -> tell -> thee
+- I -> put -> tricks
+- he -> has -> pace
+- I -> like -> him
+- I -> moved -> King
+- Highness -> promised -> me
+- Highness -> comes -> post
+- he -> numbered -> thirty
+- COUNTESS -> rejoices -> me
+- It -> rejoices -> me
+- I -> see -> him
+- I -> have -> letters
+- I -> beseech -> Lordship
+- I -> made -> charter
+- I -> thank -> God
+- I -> pray -> you
+- which -> bow -> head
+- day -> wear -> spirits
+- We -> help -> it
+- you -> made -> days
+- nothing -> unroot -> you
+- man -> help -> me
+- he -> spend -> power.--God
+- I -> seen -> you
+- Which -> lay -> manners
+- I -> put -> you
+- I -> continue -> which
+- it -> please -> you
+- we -> lose -> pains
+- I -> do -> beseech
+- I -> take -> it
+- Which -> render -> blame
+- you -> thank -> pains
+- I -> do -> This
+- Whate'er -> falls -> more
+- = -> give -> letter
+- = -> Enter -> Fool
+- I -> have -> ere
+- I -> held -> familiarity
+- I -> eat -> fish
+- Prithee -> allow -> wind
+- FOOL -> stop -> nose
+- I -> stop -> nose
+- Prithee -> get -> thee
+- PAROLLES -> Pray -> you
+- that -> fall'n -> withal
+- I -> pity -> distress
+- Fortune -> scratched -> whom
+- me -> do -> what
+- you -> played -> knave
+- she -> scratch -> you
+- justices -> make -> you
+- I -> beseech -> Honor
+- passion -> give -> hand
+- that -> found -> me
+- you -> bring -> me
+- One -> brings -> thee
+- other -> brings -> thee
+- I -> had -> talk
+- I -> praise -> God
+- We -> lost -> jewel
+- son -> lacked -> sense
+- I -> beseech -> Majesty
+- rebellion -> done -> blade
+- I -> beg -> pardon
+- He -> lost -> wife
+- beauty -> astonish -> survey
+- ears -> took -> words
+- view -> kill -> repetition
+- him -> ask -> pardon
+- him -> approach -> stranger
+- we -> have -> match
+- letters -> sent -> me
+- That -> sets -> him
+- 's -> take -> instant
+- we -> effect -> them
+- You -> remember -> daughter
+- I -> stuck -> choice
+- Durst -> make -> herald
+- impression -> lend -> me
+- Which -> warped -> line
+- men -> praised -> whom
+- that -> offend -> it
+- didst -> love -> strikes
+- love -> turns -> offense
+- faults -> Make -> price
+- we -> know -> grave
+- Bertram -> gives -> ring
+- I -> took -> leave
+- me -> see -> it
+- Lafew -> passes -> ring
+- I -> gave -> Helen
+- I -> bade -> her
+- fortunes -> stood -> Necessitied
+- I -> relieve -> her
+- what -> stead -> her
+- it -> pleases -> you
+- her -> wear -> it
+- she -> reckoned -> it
+- her -> wear -> it
+- She -> saw -> it
+- which -> contained -> name
+- that -> threw -> it
+- she -> made -> overture
+- Plutus -> knows -> med'cine
+- That -> knows -> med'cine
+- Whoever -> gave -> you
+- Confess -> twas -> hers
+- You -> got -> it
+- She -> called -> saints
+- she -> put -> it
+- she -> gave -> it
+- She -> saw -> it
+- Thou -> speak'st -> it
+- I -> love -> honor
+- I -> fain -> Which
+- it -> prove -> art
+- didst -> hate -> her
+- nothing -> win -> me
+- this -> ring.--Take -> him
+- proofs -> howe'er -> fall
+- We -> sift -> matter
+- I -> husbanded -> bed
+- He -> gives -> paper
+- I -> undertook -> it
+- she -> told -> me
+- it -> did -> concern
+- he -> won -> me
+- I -> follow -> him
+- I -> wonder -> KING
+- you -> fly -> them
+- you -> know -> women
+- I -> know -> them
+- they -> charge -> me
+- You -> give -> hand
+- You -> give -> vows
+- You -> give -> myself
+- she -> marry -> me
+- which -> marries -> you
+- I -> sink -> it
+- deeds -> gain -> them
+- Fairer -> prove -> honor
+- He -> had -> virginity
+- He -> does -> me
+- He -> bought -> me
+- O -> behold -> ring
+- respect -> lack -> parallel
+- He -> gave -> it
+- one -> witness -> it
+- I -> did -> DIANA
+- I -> saw -> man
+- KING -> Find -> him
+- exits -> BERTRAM -> What
+- he -> utter -> what
+- That -> speak -> anything
+- She -> hath -> ring
+- I -> liked -> her
+- She -> knew -> distance
+- She -> got -> ring
+- I -> had -> that
+- inferior -> bought -> which
+- You -> diet -> me
+- that -> turned -> wife
+- I -> pray -> you
+- you -> lack -> virtue
+- I -> lose -> Send
+- I -> return -> it
+- I -> have -> it
+- I -> pray -> you
+- KING -> Know -> you
+- I -> gave -> him
+- you -> threw -> it
+- I -> spoke -> truth
+- feather -> starts -> DIANA
+- KING -> Tell -> me
+- I -> charge -> you
+- Which -> keep -> off--
+- I -> keep -> off--
+- gentlemen -> have -> which
+- he -> love -> woman
+- he -> love -> her
+- I -> pray -> you
+- He -> love -> her
+- gentleman -> loves -> woman
+- He -> loved -> her
+- you -> know -> DIANA
+- he -> promised -> marriage
+- I -> know -> more
+- thou -> speak -> know'st
+- he -> loved -> her
+- I -> knew -> that
+- which -> derive -> me
+- I -> know -> what
+- you -> buy -> it
+- who -> gave -> you
+- I -> buy -> it
+- Who -> lent -> it
+- you -> find -> it
+- I -> found -> it
+- you -> give -> him
+- I -> gave -> him
+- I -> gave -> wife
+- KING -> Take -> her
+- I -> like -> her
+- thou -> tell'st -> me
+- I -> tell -> you
+- KING -> Take -> her
+- I -> put -> bail
+- I -> think -> thee
+- I -> knew -> man
+- thou -> accused -> him
+- She -> abuse -> ears
+- that -> owes -> ring
+- he -> surety -> me
+- Who -> abused -> me
+- he -> knows -> himself
+- he -> harmed -> me
+- I -> quit -> him
+- He -> knows -> himself
+- he -> got -> wife
+- she -> feels -> kick
+- I -> see -> that
+- She -> takes -> paper
+- you -> get -> ring
+- me -> know -> this
+- I -> love -> her
+- I -> weep -> [
+- Drum -> lend -> handkercher
+- I -> thank -> thee
+- I -> make -> sport
+- KING -> Let -> us
+- I -> pay -> dower
+- I -> guess -> that
+- you -> express -> content
+- we -> pay -> which
+- hands -> lend -> us
