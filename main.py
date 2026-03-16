@@ -10,8 +10,8 @@ from pathlib import Path
 from typing import List, Tuple
 
 
-def load_model(model_name: str = "en_core_web_sm") -> spacy.Language:
-    """Load the spaCy model."""
+def load_model(model_name: str = "zh_core_web_sm") -> spacy.Language:
+    """Load the spaCy model for Chinese text processing."""
     try:
         return spacy.load(model_name)
     except OSError:
@@ -34,15 +34,18 @@ def extract_entities(doc: spacy.tokens.Doc) -> List[Tuple[str, str]]:
 
 
 def extract_relations(doc: spacy.tokens.Doc) -> List[Tuple[str, str, str]]:
-    """Extract simple subject-verb-object relations."""
+    """Extract simple subject-verb-object relations for Chinese text."""
     relations = []
     for token in doc:
-        if token.dep_ == "nsubj" and token.head.pos_ == "VERB":
+        # 中文依存关系标记与英文类似
+        # nsubj: 名词性主语 (nominal subject)
+        # vob/obj: 宾语 (object)
+        if token.dep_ == "nsubj" and token.head.pos_ in ("VERB", "AUX"):
             subject = token.text
             verb = token.head.text
-            # Find object
+            # Find object (中文可能是 'dobj', 'pobj', 'obj' 等)
             for child in token.head.children:
-                if child.dep_ in ("dobj", "pobj"):
+                if child.dep_ in ("dobj", "pobj", "obj"):
                     obj = child.text
                     relations.append((subject, verb, obj))
                     break
