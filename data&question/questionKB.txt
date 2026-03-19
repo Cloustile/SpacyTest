@@ -3,10 +3,13 @@ Knowledge Base: questionKB.txt
 ============================================================
 
 === Named Entities ===
-- 中国 (GPE)
+- Helena (ORG)
+- Bertram (PERSON)
 
-Total unique entities: 1
+Total unique entities: 2
 
 === Relations (Subject-Verb-Object) ===
+- dynamics -> between -> Helena
+  Context: Describe the relationship dynamics between Helena and Bertram
 
-Total relations: 0
+Total relations: 1

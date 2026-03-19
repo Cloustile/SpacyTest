@@ -9,8 +9,8 @@ This system:
 5. Calls DeepSeek LLM API to generate answers (answer.txt)
 
 Language Support:
-- Chinese (default): zh_core_web_sm model
-- English: en_core_web_sm model (configurable via .env)
+- English (default): en_core_web_sm model
+- Chinese: zh_core_web_sm model (configurable via .env)
 """
 
 import spacy
@@ -30,7 +30,7 @@ def load_model(model_name: str = None) -> spacy.Language:
     """Load the spaCy model for text processing."""
     # Get model name from environment variable or use default
     if model_name is None:
-        model_name = os.getenv("SPACY_MODEL", "zh_core_web_sm")
+        model_name = os.getenv("SPACY_MODEL", "en_core_web_sm")  # Changed to English default
     
     try:
         return spacy.load(model_name)

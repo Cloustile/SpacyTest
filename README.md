@@ -4,6 +4,40 @@
 
 本项目是一个基于 SpaCy 自然语言处理库和 DeepSeek LLM API 的知识图谱构建与问答系统。系统能够从文本数据中自动提取实体和关系，构建知识图谱，并利用大语言模型生成问题的答案。
 
+## 项目结构
+
+```
+f:\1-Research\SpacyTest
+├── main.py                 # 主程序：知识图谱构建与 LLM 问答系统核心代码
+│
+├── data&question/          # 输入数据目录
+│   ├── data.txt           # 输入：待分析的文本数据
+│   ├── question.txt       # 输入：用户提出的问题
+│   ├── dataKB.txt         # 输出：数据知识库（包含所有提取的实体和关系）
+│   ├── questionKB.txt     # 输出：问题知识库（问题中的实体和关系）
+│   └── preKG.txt          # 输出：初步知识图谱（筛选后的相关知识，含上下文）
+│
+├── answer/                 # 答案输出目录
+│   └── answer.txt         # 输出：LLM 生成的最终答案
+│
+├── docs/                   # 文档目录：存放项目相关文档资料
+│   ├── CHANGELOG.md       # 更新日志：记录项目的版本变更和新功能
+│   ├── EXAMPLES.md        # 使用示例：详细的使用案例和场景演示
+│   └── notes.md           # 备注说明：开发笔记和技术要点
+│
+├── reference/              # 参考资料目录：存放参考文献和论文
+│   └── *.pdf              # 学术论文：如知识图谱问答相关的研究论文
+│
+├── QUICKSTART.md           # 快速上手指南：5 分钟快速开始教程，包含完整示例和常见问题
+├── README.md               # 项目说明：本项目的主文档，包含功能介绍、安装和使用方法
+├── requirements.txt        # 依赖列表：Python 包依赖清单
+├── .env                    # 环境变量配置：存储 API Key 等敏感信息（不被 Git 跟踪）
+├── .env.example            # 环境变量模板：.env 文件的示例模板
+├── .gitignore              # Git 忽略配置：指定不需要版本控制的文件
+├── test.py                 # API 测试脚本：测试 DeepSeek API 连接和配置
+└── test_installation.py    # 安装测试脚本：验证系统环境和依赖是否齐全
+```
+
 ## 核心功能
 
 1. **实体与关系提取**：使用 SpaCy 从数据文本和问题文本中自动提取命名实体和语义关系
@@ -220,40 +254,6 @@ python -m spacy download zh_core_web_sm
 - **requests**：HTTP 请求
 - **python-dotenv**：环境变量管理
 - **DeepSeek API**：大语言模型服务
-
-## 项目结构
-
-```
-f:\1-Research\SpacyTest
-├── main.py                 # 主程序：知识图谱构建与 LLM 问答系统核心代码
-│
-├── data&question/          # 输入数据目录
-│   ├── data.txt           # 输入：待分析的文本数据
-│   ├── question.txt       # 输入：用户提出的问题
-│   ├── dataKB.txt         # 输出：数据知识库（包含所有提取的实体和关系）
-│   ├── questionKB.txt     # 输出：问题知识库（问题中的实体和关系）
-│   └── preKG.txt          # 输出：初步知识图谱（筛选后的相关知识，含上下文）
-│
-├── answer/                 # 答案输出目录
-│   └── answer.txt         # 输出：LLM 生成的最终答案
-│
-├── docs/                   # 文档目录：存放项目相关文档资料
-│   ├── CHANGELOG.md       # 更新日志：记录项目的版本变更和新功能
-│   ├── EXAMPLES.md        # 使用示例：详细的使用案例和场景演示
-│   └── notes.md           # 备注说明：开发笔记和技术要点
-│
-├── reference/              # 参考资料目录：存放参考文献和论文
-│   └── *.pdf              # 学术论文：如知识图谱问答相关的研究论文
-│
-├── QUICKSTART.md           # 快速上手指南：5 分钟快速开始教程，包含完整示例和常见问题
-├── README.md               # 项目说明：本项目的主文档，包含功能介绍、安装和使用方法
-├── requirements.txt        # 依赖列表：Python 包依赖清单
-├── .env                    # 环境变量配置：存储 API Key 等敏感信息（不被 Git 跟踪）
-├── .env.example            # 环境变量模板：.env 文件的示例模板
-├── .gitignore              # Git 忽略配置：指定不需要版本控制的文件
-├── test.py                 # API 测试脚本：测试 DeepSeek API 连接和配置
-└── test_installation.py    # 安装测试脚本：验证系统环境和依赖是否齐全
-```
 
 **目录说明：**
 - **`data&question/`**: 存放输入数据和生成的知识库文件
