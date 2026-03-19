@@ -1,0 +1,11 @@
+============================================================
+Knowledge Base: questionKB.txt
+============================================================
+
+=== Named Entities ===
+
+Total unique entities: 0
+
+=== Relations (Subject-Verb-Object) ===
+
+Total relations: 0

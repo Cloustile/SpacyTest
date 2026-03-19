@@ -1,0 +1,21 @@
+============================================================
+PRELIMINARY KNOWLEDGE GRAPH (preKG)
+============================================================
+
+=== Graph Statistics ===
+Total Nodes (Entities): 0
+Total Edges (Relations): 0
+
+=== Nodes (Entities) ===
+
+=== Edges (Relations) ===
+
+=== JSON Format ===
+{
+  "nodes": [],
+  "edges": [],
+  "metadata": {
+    "node_count": 0,
+    "edge_count": 0
+  }
+}

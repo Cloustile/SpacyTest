@@ -1,2 +1,3 @@
 spacy>=3.7.0
-# Note: Also need to download the model with: python -m spacy download en_core_web_sm
+python-dotenv>=1.0.0
+requests>=2.31.0
