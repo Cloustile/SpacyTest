@@ -3,19 +3,27 @@ PRELIMINARY KNOWLEDGE GRAPH (preKG)
 ============================================================
 
 === Graph Statistics ===
-Total Nodes (Entities): 0
+Total Nodes (Entities): 1
 Total Edges (Relations): 0
 
 === Nodes (Entities) ===
+[n0] 中国 (Type: GPE)
 
 === Edges (Relations) ===
 
 === JSON Format ===
 {
-  "nodes": [],
+  "nodes": [
+    {
+      "id": "n0",
+      "label": "中国",
+      "type": "GPE",
+      "context": []
+    }
+  ],
   "edges": [],
   "metadata": {
-    "node_count": 0,
+    "node_count": 1,
     "edge_count": 0
   }
 }

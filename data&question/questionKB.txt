@@ -3,8 +3,9 @@ Knowledge Base: questionKB.txt
 ============================================================
 
 === Named Entities ===
+- 中国 (GPE)
 
-Total unique entities: 0
+Total unique entities: 1
 
 === Relations (Subject-Verb-Object) ===
 
