@@ -9,9 +9,7 @@ Knowledge Base: questionKB.txt
 Total unique entities: 2
 
 === Relations (Subject-Verb-Object) ===
-- you -> analyze -> evolution
-  Context: Can you analyze the evolution of Helena and Bertram's relationship?
-- evolution -> of -> relationship
-  Context: Can you analyze the evolution of Helena and Bertram's relationship?
+- nuances -> of -> Helena
+  Context: Explore the nuances of Helena and Bertram's relationship.
 
-Total relations: 2
+Total relations: 1
