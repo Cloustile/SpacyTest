@@ -273,8 +273,14 @@ def build_knowledge_graph(filtered_kb: Dict, output_file: Path) -> Dict:
     return graph
 
 
-def call_deepseek_api(kg_data: Dict, question_text: str) -> str:
-    """Call DeepSeek LLM API with knowledge graph and question."""
+def call_deepseek_api(kg_data: Dict, question_text: str, max_retries: int = 2) -> str:
+    """Call DeepSeek LLM API with knowledge graph and question.
+    
+    Args:
+        kg_data: Knowledge graph data
+        question_text: Question text
+        max_retries: Maximum number of retry attempts on timeout
+    """
     
     api_key = os.getenv("DEEPSEEK_API_KEY")
     if not api_key:
@@ -326,23 +332,50 @@ Question:
         "max_tokens": 2000
     }
     
-    try:
-        response = requests.post(
-            "https://api.deepseek.com/v1/chat/completions",
-            headers=headers,
-            json=payload,
-            timeout=30
-        )
-        response.raise_for_status()
+    # Retry logic for timeout handling
+    attempt = 0
+    while attempt <= max_retries:
+        try:
+            print(f"  Attempt {attempt + 1}/{max_retries + 1}...")
+            response = requests.post(
+                "https://api.deepseek.com/v1/chat/completions",
+                headers=headers,
+                json=payload,
+                timeout=(10, 120)  # (connect_timeout, read_timeout) - increased to 120 seconds
+            )
+            response.raise_for_status()
+            
+            result = response.json()
+            answer = result["choices"][0]["message"]["content"]
+            
+            return answer
         
-        result = response.json()
-        answer = result["choices"][0]["message"]["content"]
+        except requests.exceptions.Timeout as e:
+            attempt += 1
+            if attempt <= max_retries:
+                print(f"  Request timed out (attempt {attempt}). Retrying in 5 seconds...")
+                import time
+                time.sleep(5)
+            else:
+                error_msg = f"API request timed out after {max_retries + 1} attempts (timeout: 120 seconds per attempt).\nDetails: {str(e)}\n\nPossible solutions:\n1. Check your network connection\n2. Reduce the size of knowledge graph data\n3. Try again later when API servers are less busy"
+                print(f"Error calling DeepSeek API: {error_msg}")
+                return f"[Error: {error_msg}]"
         
-        return answer
-    
-    except requests.exceptions.RequestException as e:
-        print(f"Error calling DeepSeek API: {e}")
-        return f"[Error: Failed to get answer from LLM. Details: {str(e)}]"
+        except requests.exceptions.ConnectionError as e:
+            error_msg = f"Connection error. Please check your network connection and API endpoint.\nDetails: {str(e)}"
+            print(f"Error calling DeepSeek API: {error_msg}")
+            return f"[Error: {error_msg}]"
+        
+        except requests.exceptions.HTTPError as e:
+            status_code = e.response.status_code if e.response else "Unknown"
+            error_msg = f"HTTP Error {status_code}. Please check your API key and request format.\nDetails: {str(e)}"
+            print(f"Error calling DeepSeek API: {error_msg}")
+            return f"[Error: {error_msg}]"
+        
+        except requests.exceptions.RequestException as e:
+            error_msg = f"Unexpected error calling DeepSeek API: {str(e)}"
+            print(f"Error calling DeepSeek API: {error_msg}")
+            return f"[Error: Failed to get answer from LLM. Details: {str(e)}]"
 
 
 def save_answer(answer: str, question: str, output_file: Path) -> None:

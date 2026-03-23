@@ -9,22 +9,27 @@ Total Edges (Relations): 18
 === Nodes (Entities) ===
 [n0] Bertram (Type: PERSON)
   Context:
-    - FIRST LORD, [to Bertram]
-O my sweet lord, that you will stay behind us!
     - FIRST LORD, [aside to Bertram]  You're deceived, my
 lord.
-    - FIRST LORD, [aside to Bertram]  Nay, look not so upon
-me.
-    - [Bertram gives him a ring.]
     - LAFEW, [to Bertram]  Your reputation comes too short
 for my daughter.
     - DIANA, [to Bertram]
 By Jove, if ever I knew man, 'twas you.
+    - [Enter Parolles.]
+
+
+PAROLLES, [to Bertram]
+    - FIRST LORD, [aside to Bertram]  Nay, look not so upon
+me.
+    - FIRST LORD, [to Bertram]
+O my sweet lord, that you will stay behind us!
+    - [To Bertram.]
     - [to Bertram]  Pray you, sir, who's his tailor?
 
 PAROLLES  Sir?
 
 LAFEW  O, I know him well.
+    - [Bertram gives him a ring.]
     - But if thou be'st not an ass, I
 am a youth of fourteen; I have known thee already.
 
@@ -32,11 +37,6 @@ HELEN, [to Bertram]
 I dare not say I take you, but I give
 Me and my service ever whilst I live
 Into your guiding power.--This is the man.
-    - [To Bertram.]
-    - [Enter Parolles.]
-
-
-PAROLLES, [to Bertram]
 [n1] Helena (Type: ORG)
 [n2] BERTRAM (Type: GPE)
   Context:
@@ -44,11 +44,21 @@ PAROLLES, [to Bertram]
 
 
 BERTRAM  A plague upon him!
+    - BERTRAM
+You are deceived, my lord.
     - BERTRAM, [to Parolles]  Is there any unkindness
 between my lord and you, monsieur?
 
 PAROLLES  I know not how I have deserved to run into
 my lord's displeasure.
+    - Scene 2
+=======
+[Enter Bertram and the maid called Diana.]
+
+
+BERTRAM
+    - BERTRAM, [aside]  I could endure anything before but a
+cat, and now he's a cat to me.
     - Well
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
@@ -92,34 +102,29 @@ Scene 1
 =======
 [Enter young Bertram Count of Rossillion, his mother
 the Countess, and Helen, Lord Lafew, all in black.
-    - BERTRAM
-You are deceived, my lord.
-    - Scene 2
-=======
-[Enter Bertram and the maid called Diana.]
-
-
-BERTRAM
-    - BERTRAM, [aside]  I could endure anything before but a
-cat, and now he's a cat to me.
 [n3] Bertram (Type: GPE)
   Context:
-    - FIRST LORD, [to Bertram]
-O my sweet lord, that you will stay behind us!
     - FIRST LORD, [aside to Bertram]  You're deceived, my
 lord.
-    - FIRST LORD, [aside to Bertram]  Nay, look not so upon
-me.
-    - [Bertram gives him a ring.]
     - LAFEW, [to Bertram]  Your reputation comes too short
 for my daughter.
     - DIANA, [to Bertram]
 By Jove, if ever I knew man, 'twas you.
+    - [Enter Parolles.]
+
+
+PAROLLES, [to Bertram]
+    - FIRST LORD, [aside to Bertram]  Nay, look not so upon
+me.
+    - FIRST LORD, [to Bertram]
+O my sweet lord, that you will stay behind us!
+    - [To Bertram.]
     - [to Bertram]  Pray you, sir, who's his tailor?
 
 PAROLLES  Sir?
 
 LAFEW  O, I know him well.
+    - [Bertram gives him a ring.]
     - But if thou be'st not an ass, I
 am a youth of fourteen; I have known thee already.
 
@@ -127,22 +132,27 @@ HELEN, [to Bertram]
 I dare not say I take you, but I give
 Me and my service ever whilst I live
 Into your guiding power.--This is the man.
-    - [To Bertram.]
-    - [Enter Parolles.]
-
-
-PAROLLES, [to Bertram]
 [n4] BERTRAM (Type: ORG)
   Context:
     - ]
 
 
 BERTRAM  A plague upon him!
+    - BERTRAM
+You are deceived, my lord.
     - BERTRAM, [to Parolles]  Is there any unkindness
 between my lord and you, monsieur?
 
 PAROLLES  I know not how I have deserved to run into
 my lord's displeasure.
+    - Scene 2
+=======
+[Enter Bertram and the maid called Diana.]
+
+
+BERTRAM
+    - BERTRAM, [aside]  I could endure anything before but a
+cat, and now he's a cat to me.
     - Well
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
@@ -186,16 +196,6 @@ Scene 1
 =======
 [Enter young Bertram Count of Rossillion, his mother
 the Countess, and Helen, Lord Lafew, all in black.
-    - BERTRAM
-You are deceived, my lord.
-    - Scene 2
-=======
-[Enter Bertram and the maid called Diana.]
-
-
-BERTRAM
-    - BERTRAM, [aside]  I could endure anything before but a
-cat, and now he's a cat to me.
 [n5] Jove (Type: PERSON)
   Context:
     - DIANA, [to Bertram]
@@ -215,16 +215,16 @@ By Jove, if ever I knew man, 'twas you.
       "label": "Bertram",
       "type": "PERSON",
       "context": [
-        "FIRST LORD, [to Bertram]\nO my sweet lord, that you will stay behind us!",
         "FIRST LORD, [aside to Bertram]  You're deceived, my\nlord.",
-        "FIRST LORD, [aside to Bertram]  Nay, look not so upon\nme.",
-        "[Bertram gives him a ring.]",
         "LAFEW, [to Bertram]  Your reputation comes too short\nfor my daughter.",
         "DIANA, [to Bertram]\nBy Jove, if ever I knew man, 'twas you.",
-        "[to Bertram]  Pray you, sir, who's his tailor?\n\nPAROLLES  Sir?\n\nLAFEW  O, I know him well.",
-        "But if thou be'st not an ass, I\nam a youth of fourteen; I have known thee already.\n\nHELEN, [to Bertram]\nI dare not say I take you, but I give\nMe and my service ever whilst I live\nInto your guiding power.--This is the man.",
+        "[Enter Parolles.]\n\n\nPAROLLES, [to Bertram]",
+        "FIRST LORD, [aside to Bertram]  Nay, look not so upon\nme.",
+        "FIRST LORD, [to Bertram]\nO my sweet lord, that you will stay behind us!",
         "[To Bertram.]",
-        "[Enter Parolles.]\n\n\nPAROLLES, [to Bertram]"
+        "[to Bertram]  Pray you, sir, who's his tailor?\n\nPAROLLES  Sir?\n\nLAFEW  O, I know him well.",
+        "[Bertram gives him a ring.]",
+        "But if thou be'st not an ass, I\nam a youth of fourteen; I have known thee already.\n\nHELEN, [to Bertram]\nI dare not say I take you, but I give\nMe and my service ever whilst I live\nInto your guiding power.--This is the man."
       ]
     },
     {
@@ -239,11 +239,11 @@ By Jove, if ever I knew man, 'twas you.
       "type": "GPE",
       "context": [
         "]\n\n\nBERTRAM  A plague upon him!",
-        "BERTRAM, [to Parolles]  Is there any unkindness\nbetween my lord and you, monsieur?\n\nPAROLLES  I know not how I have deserved to run into\nmy lord's displeasure.",
-        "Well\nby William Shakespeare\nEdited by Barbara A. Mowat and Paul Werstine\n  with Michael Poston and Rebecca Niles\nFolger Shakespeare Library\nhttps://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/\nCreated on Mar 14, 2018, from FDT version 0.9.2.2\n\nCharacters in the Play\n======================\nHELEN, a gentlewoman of Rossillion\nBERTRAM, Count of Rossillion\nCOUNTESS of Rossillion, Bertram's mother\nIn the Countess's household:\n  STEWARD\n  FOOL\n  PAGE\nPAROLLES, companion to Bertram\nKING of France\nLAFEW, a French lord\nLater Captains in the army of the Duke of Florence:\n  FIRST LORD\n  SECOND LORD\nOther LORDS in the court of the King of France\nFrom the court of the King of France:\n  FIRST GENTLEMAN\n  SECOND GENTLEMAN\n  GENTLEMAN, a \"gentle Astringer\"\nFIRST SOLDIER, interpreter\nThe DUKE of Florence\nA WIDOW of Florence\nDIANA, the Widow's daughter\nMARIANA, the Widow's neighbor\nAttendants, Soldiers, Citizens of Florence, Servants\n\n\nACT 1\n=====\n\nScene 1\n=======\n[Enter young Bertram Count of Rossillion, his mother\nthe Countess, and Helen, Lord Lafew, all in black.",
         "BERTRAM\nYou are deceived, my lord.",
+        "BERTRAM, [to Parolles]  Is there any unkindness\nbetween my lord and you, monsieur?\n\nPAROLLES  I know not how I have deserved to run into\nmy lord's displeasure.",
         "Scene 2\n=======\n[Enter Bertram and the maid called Diana.]\n\n\nBERTRAM",
-        "BERTRAM, [aside]  I could endure anything before but a\ncat, and now he's a cat to me."
+        "BERTRAM, [aside]  I could endure anything before but a\ncat, and now he's a cat to me.",
+        "Well\nby William Shakespeare\nEdited by Barbara A. Mowat and Paul Werstine\n  with Michael Poston and Rebecca Niles\nFolger Shakespeare Library\nhttps://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/\nCreated on Mar 14, 2018, from FDT version 0.9.2.2\n\nCharacters in the Play\n======================\nHELEN, a gentlewoman of Rossillion\nBERTRAM, Count of Rossillion\nCOUNTESS of Rossillion, Bertram's mother\nIn the Countess's household:\n  STEWARD\n  FOOL\n  PAGE\nPAROLLES, companion to Bertram\nKING of France\nLAFEW, a French lord\nLater Captains in the army of the Duke of Florence:\n  FIRST LORD\n  SECOND LORD\nOther LORDS in the court of the King of France\nFrom the court of the King of France:\n  FIRST GENTLEMAN\n  SECOND GENTLEMAN\n  GENTLEMAN, a \"gentle Astringer\"\nFIRST SOLDIER, interpreter\nThe DUKE of Florence\nA WIDOW of Florence\nDIANA, the Widow's daughter\nMARIANA, the Widow's neighbor\nAttendants, Soldiers, Citizens of Florence, Servants\n\n\nACT 1\n=====\n\nScene 1\n=======\n[Enter young Bertram Count of Rossillion, his mother\nthe Countess, and Helen, Lord Lafew, all in black."
       ]
     },
     {
@@ -251,16 +251,16 @@ By Jove, if ever I knew man, 'twas you.
       "label": "Bertram",
       "type": "GPE",
       "context": [
-        "FIRST LORD, [to Bertram]\nO my sweet lord, that you will stay behind us!",
         "FIRST LORD, [aside to Bertram]  You're deceived, my\nlord.",
-        "FIRST LORD, [aside to Bertram]  Nay, look not so upon\nme.",
-        "[Bertram gives him a ring.]",
         "LAFEW, [to Bertram]  Your reputation comes too short\nfor my daughter.",
         "DIANA, [to Bertram]\nBy Jove, if ever I knew man, 'twas you.",
-        "[to Bertram]  Pray you, sir, who's his tailor?\n\nPAROLLES  Sir?\n\nLAFEW  O, I know him well.",
-        "But if thou be'st not an ass, I\nam a youth of fourteen; I have known thee already.\n\nHELEN, [to Bertram]\nI dare not say I take you, but I give\nMe and my service ever whilst I live\nInto your guiding power.--This is the man.",
+        "[Enter Parolles.]\n\n\nPAROLLES, [to Bertram]",
+        "FIRST LORD, [aside to Bertram]  Nay, look not so upon\nme.",
+        "FIRST LORD, [to Bertram]\nO my sweet lord, that you will stay behind us!",
         "[To Bertram.]",
-        "[Enter Parolles.]\n\n\nPAROLLES, [to Bertram]"
+        "[to Bertram]  Pray you, sir, who's his tailor?\n\nPAROLLES  Sir?\n\nLAFEW  O, I know him well.",
+        "[Bertram gives him a ring.]",
+        "But if thou be'st not an ass, I\nam a youth of fourteen; I have known thee already.\n\nHELEN, [to Bertram]\nI dare not say I take you, but I give\nMe and my service ever whilst I live\nInto your guiding power.--This is the man."
       ]
     },
     {
@@ -269,11 +269,11 @@ By Jove, if ever I knew man, 'twas you.
       "type": "ORG",
       "context": [
         "]\n\n\nBERTRAM  A plague upon him!",
-        "BERTRAM, [to Parolles]  Is there any unkindness\nbetween my lord and you, monsieur?\n\nPAROLLES  I know not how I have deserved to run into\nmy lord's displeasure.",
-        "Well\nby William Shakespeare\nEdited by Barbara A. Mowat and Paul Werstine\n  with Michael Poston and Rebecca Niles\nFolger Shakespeare Library\nhttps://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/\nCreated on Mar 14, 2018, from FDT version 0.9.2.2\n\nCharacters in the Play\n======================\nHELEN, a gentlewoman of Rossillion\nBERTRAM, Count of Rossillion\nCOUNTESS of Rossillion, Bertram's mother\nIn the Countess's household:\n  STEWARD\n  FOOL\n  PAGE\nPAROLLES, companion to Bertram\nKING of France\nLAFEW, a French lord\nLater Captains in the army of the Duke of Florence:\n  FIRST LORD\n  SECOND LORD\nOther LORDS in the court of the King of France\nFrom the court of the King of France:\n  FIRST GENTLEMAN\n  SECOND GENTLEMAN\n  GENTLEMAN, a \"gentle Astringer\"\nFIRST SOLDIER, interpreter\nThe DUKE of Florence\nA WIDOW of Florence\nDIANA, the Widow's daughter\nMARIANA, the Widow's neighbor\nAttendants, Soldiers, Citizens of Florence, Servants\n\n\nACT 1\n=====\n\nScene 1\n=======\n[Enter young Bertram Count of Rossillion, his mother\nthe Countess, and Helen, Lord Lafew, all in black.",
         "BERTRAM\nYou are deceived, my lord.",
+        "BERTRAM, [to Parolles]  Is there any unkindness\nbetween my lord and you, monsieur?\n\nPAROLLES  I know not how I have deserved to run into\nmy lord's displeasure.",
         "Scene 2\n=======\n[Enter Bertram and the maid called Diana.]\n\n\nBERTRAM",
-        "BERTRAM, [aside]  I could endure anything before but a\ncat, and now he's a cat to me."
+        "BERTRAM, [aside]  I could endure anything before but a\ncat, and now he's a cat to me.",
+        "Well\nby William Shakespeare\nEdited by Barbara A. Mowat and Paul Werstine\n  with Michael Poston and Rebecca Niles\nFolger Shakespeare Library\nhttps://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/\nCreated on Mar 14, 2018, from FDT version 0.9.2.2\n\nCharacters in the Play\n======================\nHELEN, a gentlewoman of Rossillion\nBERTRAM, Count of Rossillion\nCOUNTESS of Rossillion, Bertram's mother\nIn the Countess's household:\n  STEWARD\n  FOOL\n  PAGE\nPAROLLES, companion to Bertram\nKING of France\nLAFEW, a French lord\nLater Captains in the army of the Duke of Florence:\n  FIRST LORD\n  SECOND LORD\nOther LORDS in the court of the King of France\nFrom the court of the King of France:\n  FIRST GENTLEMAN\n  SECOND GENTLEMAN\n  GENTLEMAN, a \"gentle Astringer\"\nFIRST SOLDIER, interpreter\nThe DUKE of Florence\nA WIDOW of Florence\nDIANA, the Widow's daughter\nMARIANA, the Widow's neighbor\nAttendants, Soldiers, Citizens of Florence, Servants\n\n\nACT 1\n=====\n\nScene 1\n=======\n[Enter young Bertram Count of Rossillion, his mother\nthe Countess, and Helen, Lord Lafew, all in black."
       ]
     },
     {

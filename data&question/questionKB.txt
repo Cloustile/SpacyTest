@@ -9,7 +9,7 @@ Knowledge Base: questionKB.txt
 Total unique entities: 2
 
 === Relations (Subject-Verb-Object) ===
-- nuances -> of -> Helena
-  Context: Explore the nuances of Helena and Bertram's relationship.
+- complexities -> of -> Helena
+  Context: Examine the complexities of Helena and Bertram's relationship.
 
 Total relations: 1
